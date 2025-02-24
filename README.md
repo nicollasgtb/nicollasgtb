@@ -18,10 +18,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "40" height = "40"/>
 </p>
 
-<div>
-<a href="https://github.com/adnicollas">
-<img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnicollas&layout=compact&langs_count=7&theme=codeSTACK"/>
-<img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api?username=adnicollas&show_icons=true&theme=codeSTACK&include_all_comits=true"/>
-</div>
-
 💡 Feel free to fork any of my repositories or reach out to collaborate!
+
+<h3 align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+best+way+to+predict+the+future+is+to+create+it.&author=Peter+Drucker"></h3>
