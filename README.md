@@ -10,7 +10,7 @@
 ### 🛠️ **Tech Stack**
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,,matlab,mysql,git,idea,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=java,matlab,mysql,idea,vscode,linux" />
 </p>
 
 > **Feel free to fork any of my repositories or get in touch to collaborate!**
