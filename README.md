@@ -20,8 +20,8 @@
 
 <div>
 <a href="https://github.com/adnicollas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnicollas&layout=compact&langs_count=7&theme=codeSTACK"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=adnicollas&show_icons=true&theme=codeSTACK&include_all_comits=true"/>
+<img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnicollas&layout=compact&langs_count=7&theme=codeSTACK"/>
+<img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api?username=adnicollas&show_icons=true&theme=codeSTACK&include_all_comits=true"/>
 </div>
 
 💡 Feel free to fork any of my repositories or reach out to collaborate!
