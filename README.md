@@ -14,7 +14,7 @@
 ---
 
 <div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=adnicollas&theme=codeSTACKr" height = "150"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=adnicollas&theme=dark" height = "150"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=adnicollas&layout=compact&card_width=320&theme=codeSTACKr" height = "150"/>
 </div>
 
