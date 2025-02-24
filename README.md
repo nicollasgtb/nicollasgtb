@@ -6,4 +6,7 @@
 - 🔍 **My Start:** At 13, I dove into programming plugins for Minecraft. This led me to a passion for programming and cybersecurity;
 - 🎯 **Goals:** To specialize in cybersecurity by gaining deep expertise in network security, threat prevention, and ethical hacking;
 - 📚 **Studying At**: Unisinos, RS.
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+🛠️ **Tech Stack**
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
