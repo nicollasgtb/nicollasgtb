@@ -18,9 +18,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=adnicollas&layout=compact&card_width=320&theme=codeSTACKr" height = "150"/>
 </div>
 
-
-> **Feel free to fork any of my repositories or get in touch to collaborate!**
-
 <h3 align = "center">
     <img src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+best+way+to+predict+the+future+is+to+create+it.&author=Peter+Drucker">
 </h3>
