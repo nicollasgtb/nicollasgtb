@@ -18,6 +18,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "40" height = "40"/>
 </p>
 
-💡 Feel free to fork any of my repositories or reach out to collaborate!
+> **Feel free to fork any of my repositories or get in touch to collaborate!**
 
 <h3 align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+best+way+to+predict+the+future+is+to+create+it.&author=Peter+Drucker"></h3>
