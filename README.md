@@ -8,7 +8,7 @@
 ### 🛠️ **Tech Stack**
 
 <p align = "left">
-    <img src = "https://skillicons.dev/icons?i=java,matlab,mysql,idea,vscode,linux"/>
+    <img src = "https://skillicons.dev/icons?i=java,matlab,mysql,linux,idea,vscode"/>
 </p>
 
 ---
