@@ -13,6 +13,9 @@
     <img src="https://skillicons.dev/icons?i=java,matlab,mysql,idea,vscode,linux"/>
 </p>
 
+<div align= "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=adnicollas" height = "150"/>
+
 > **Feel free to fork any of my repositories or get in touch to collaborate!**
 
 <h3 align="center">
