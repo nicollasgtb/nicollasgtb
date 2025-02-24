@@ -9,15 +9,17 @@
 
 ### 🛠️ **Tech Stack**
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=java,matlab,mysql,idea,vscode,linux"/>
+<p align = "left">
+    <img src = "https://skillicons.dev/icons?i=java,matlab,mysql,idea,vscode,linux"/>
 </p>
 
-<div align= "center">
+<div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=adnicollas" height = "150"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=adnicollas&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr" height = "150"/>
+</div>
 
 > **Feel free to fork any of my repositories or get in touch to collaborate!**
 
-<h3 align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+best+way+to+predict+the+future+is+to+create+it.&author=Peter+Drucker">
+<h3 align = "center">
+    <img src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+best+way+to+predict+the+future+is+to+create+it.&author=Peter+Drucker">
 </h3>
