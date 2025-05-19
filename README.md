@@ -17,7 +17,3 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=adnicollas&theme=dark" height = "150"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=adnicollas&layout=compact&card_width=320&theme=dark" height = "150"/>
 </div>
-
-<h3 align = "center">
-    <img src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+best+way+to+predict+the+future+is+to+create+it.&author=Peter+Drucker">
-</h3>
