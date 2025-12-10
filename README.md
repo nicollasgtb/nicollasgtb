@@ -7,5 +7,5 @@ Currently pursuing a degree at **Unisinos**. My background is in Java developmen
 [Get in touch](mailto:work.nicollas@gmail.com)
 
 <p align = "left">
-    <img src = "https://skillicons.dev/icons?i=java,python,matlab,mysql,linux,idea,vscode"/>
+    <img src = "https://skillicons.dev/icons?i=java,python,git,mysql,linux"/>
 </p>
