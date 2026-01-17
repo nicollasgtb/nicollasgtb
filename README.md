@@ -1,8 +1,8 @@
 # Nicolas
 
-**Backend Developer & Cybersecurity enthusiast** based in Brazil.
+Brazilian Backend Developer & Cybersecurity enthusiast based in Brazil.
 
-Currently pursuing a technologist degree at **Unisinos**. My background is in Java development, starting with Minecraft plugins. While primarily focused on Backend development, I am actively growing my knowledge in Network Security.
+Currently pursuing a degree at Unisinos. My journey began with Java development for Minecraft plugins, laying the foundation for my focus on Backend engineering. I am now actively expanding my skill set in Network Security.
 
 [Get in touch](mailto:work.nicollas@gmail.com)
 
